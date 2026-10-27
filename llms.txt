@@ -26,6 +26,9 @@
 - [Hiring an electrician las vegas homeowners can call](https://local-business-guides.github.io/big-red-electric-company-las-vegas/electrician-las-vegas/): Find an electrician las vegas homeowners can talk with about repairs, installations and electrical projects in Las Vegas.
 - [How to choose an electrician close to me Las Vegas](https://local-business-guides.github.io/big-red-electric-company-las-vegas/electrician-close-to-me-las-vegas/): Find an electrician close to me Las Vegas property owners can contact to discuss local electrical work and plan a service visit.
 
+## Newsroom
+- [New Guide Covers Finding an Electrician in Las Vegas, Nevada](https://local-business-guides.github.io/big-red-electric-company-las-vegas/news/2026-10-27-new-guide-covers-finding-an-electrician-in-las-veg/): Big Red Electric Company has published a Las Vegas electrician guide, with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-27)
+
 ## Pages
 - [Electrician Las Vegas, NV in Nevada](https://local-business-guides.github.io/big-red-electric-company-las-vegas/): Plan electrical work with clear information and an estimate from a local Las Vegas electrical contractor. Call +1702-875-1066.
 - [About Big Red Electric Company](https://local-business-guides.github.io/big-red-electric-company-las-vegas/about/): About Big Red Electric Company, Las Vegas.
@@ -33,3 +36,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/big-red-electric-company-las-vegas/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/big-red-electric-company-las-vegas/news/rss.xml)

@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/big-red-electric-company-las-vegas/sitemap.xml
+Sitemap: https://local-business-guides.github.io/big-red-electric-company-las-vegas/news-sitemap.xml
